@@ -661,14 +661,19 @@ nav{
             width: 28vw;
             display: flex;
             justify-content: space-between;
-            .inpage{
 
-            }
         }
     }
     }
 }
 
+.repoTry{
+    .h1{
+        color:#44D5CD;
+        width: max-content;
+        margin: 0 auto;
+    }
+}
 
 
 
